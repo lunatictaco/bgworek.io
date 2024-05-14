@@ -1,5 +1,5 @@
 baseURL = 'https://bgworek.io/'
 languageCode = 'en-us'
-title = 'Welcome'
+title = 'bgworek@io'
 
 theme = "hugo-theme-console"
