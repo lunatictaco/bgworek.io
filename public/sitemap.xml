@@ -4,48 +4,34 @@
     
         
         <url>
-            <loc>http://localhost:33943/</loc>
+            <loc>https://bgworek.io/</loc>
             <lastmod>2024-05-11T08:54:37-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:33943/bio/</loc>
+            <loc>https://bgworek.io/bio/</loc>
             <lastmod>2024-05-11T08:54:37-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:33943/posts/my-first-post/</loc>
+            <loc>https://bgworek.io/posts/</loc>
             <lastmod>2024-05-11T08:54:37-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:33943/posts/</loc>
-            <lastmod>2024-05-11T08:54:37-05:00</lastmod>
+            <loc>https://bgworek.io/categories/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:33943/publications/</loc>
-            <lastmod>2024-05-11T08:54:37-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:33943/categories/</loc>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:33943/tags/</loc>
+            <loc>https://bgworek.io/tags/</loc>
         </url>
         
     
