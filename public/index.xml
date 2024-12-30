@@ -13,21 +13,21 @@
       <link>http://localhost:1313/bio/</link>
       <pubDate>Sat, 11 May 2024 08:54:37 -0500</pubDate>
       <guid>http://localhost:1313/bio/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;headerphoto.jpg&#34; alt=&#34;Bryan&amp;rsquo;s headshot photo&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 11 May 2024 08:54:37 -0500</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction </description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>http://localhost:1313/publications/</link>
       <pubDate>Sat, 11 May 2024 08:54:37 -0500</pubDate>
       <guid>http://localhost:1313/publications/</guid>
-      <description> coming soon Oh, T.-J., Gworek, B., Mehfooz, A., &amp; Zhang, K. (2024). Gene delivery and analysis of optogenetic induction of lytic cell death. Current Protocols, 4, e1023. doi: 10.1002/cpz1.1023 (equally contributed) </description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;coming soon&lt;/li&gt;&#xA;&#xA;&lt;li&gt; &lt;em&gt;Oh, T.-J.&lt;/em&gt;, &lt;em&gt;&lt;span style=&#34;color: #ff0088&#34;&gt;Gworek, B.&lt;/span&gt;&lt;/em&gt;, &lt;em&gt;Mehfooz, A.&lt;/em&gt;, &amp; Zhang, K. (2024). Gene delivery and analysis of optogenetic induction of lytic cell death. Current Protocols, 4, e1023. &lt;a href=&#34;https://doi.org/10.1002/cpz1.1023&#34;&gt;doi: 10.1002/cpz1.1023&lt;/a&gt; (&lt;em&gt;equally contributed&lt;/em&gt;)&lt;/li&gt;&#xA;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
