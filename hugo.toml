@@ -4,3 +4,5 @@ title = 'bgworek@io'
 
 theme = "hugo-theme-console"
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

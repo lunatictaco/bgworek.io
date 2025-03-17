@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on bgworek@io</title>
-    <link>https://bgworek.io/posts/</link>
-    <description>Recent content in Posts on bgworek@io</description>
+    <title>Blogging? on bgworek@io</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blogging? on bgworek@io</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://bgworek.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my first real post</title>
+      <link>http://localhost:1313/posts/my-first-post/my-first-post/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/my-first-post/</guid>
+      <description>&lt;p&gt;Okay, I told myself I would actually use this site a year ago and clearly that never happened. However, after BPS, I realized I really should be documenting things better for my own memory and to see a timeline of progress. With that being said, this is my first post for the blog series :D&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

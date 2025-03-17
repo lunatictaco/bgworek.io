@@ -250,23 +250,19 @@ figure {
 }
 
 .tree{
-  --spacing : 1.5rem;
-  --radius  : 10px;
+  --spacing : 1.6rem;
+  --radius  : 20px;
 }
 
 .tree dl{
   display      : block;
   position     : relative;
-  padding-left : calc(2.2 * var(--spacing) - var(--radius) - 1px);
+  padding-left : calc(2.5 * var(--spacing) - var(--radius) - 1px);
 }
 
 .tree ul{
-  margin-left  : calc(var(--radius) - var(--spacing) - 3px);
+  margin-left  : calc(var(--radius) - var(--spacing) - 1px);
   padding-left : 0;
-}
-
-.tree ul dl{
-  border-left : 2px solid #fff;
 }
 
 .tree ul dl:last-child{
@@ -280,9 +276,9 @@ figure {
   top          : calc(var(--spacing) / -2);
   left         : -1.5px;
   width        : calc(var(--spacing) + 2px);
-  height       : calc(var(--spacing) - 2px);
+  height       : calc(var(--spacing) - 1px);
   border       : solid #fff;
-  border-width : 0 0 2px 2px;
+  border-width : 0 0 1px 1px;
 }
 
 .tree summary{

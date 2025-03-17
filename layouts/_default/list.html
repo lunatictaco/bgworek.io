@@ -1,4 +1,6 @@
 {{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<br/>
 {{ .Content }}
 
 <div class="posts-list">
@@ -6,13 +8,11 @@
     {{ if not .Params.private }}
         <div class="post">
             <p>
-               <!-- I might add this in later...
-            <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>-->
-                <h1>{{ .Title }}</h1>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
                 {{ .Summary }}
             </p>
         </div>
-
     {{ end }}
 {{ end }}
 </div>
